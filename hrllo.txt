@@ -1,1 +1,2 @@
 promt("hello")
+print("hello")
