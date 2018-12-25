@@ -1,3 +1,0 @@
-promt("hello")
-print("hello")
-print("hello we")
